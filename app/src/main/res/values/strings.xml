@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">lab4</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="address">Address</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="comment">Comment</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="exit">Exit</string>
+    <string name="sure_message">Are you sure?</string>
+</resources>

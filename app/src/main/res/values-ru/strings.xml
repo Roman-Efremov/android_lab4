@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="address">Адрес</string>
+    <string name="country">Страна</string>
+    <string name="city">Город</string>
+    <string name="comment">Комментарий</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="edit">Изменить</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="exit">Выйти</string>
+    <string name="sure_message">Вы уверенны?</string>
+</resources>
